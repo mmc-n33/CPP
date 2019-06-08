@@ -1,1 +1,1 @@
-# Some simple C++ projects I have done
+# Some of my projects where C++ was used
