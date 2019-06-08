@@ -2,7 +2,7 @@
 > :innocent::no_entry_sign::game_die:
 
 <br></br>
-<img src="https://github.com/mmc-n33/CPP/blob/master/Calculator/calculator_demo_1967.gif" width="1400" height="400" />
+<img src="calculator_demo_1967.gif" width="1400" height="400" />
 <br></br>
 
 <p align="center">:eyes::microphone:🏹💺:syringe:🗿:mens:</p>
